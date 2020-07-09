@@ -1,1 +1,1 @@
-# reference-snippits
+# reference-snippets
